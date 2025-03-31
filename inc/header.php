@@ -59,8 +59,8 @@ setcookie(
    
     header('Server-Timing: db;desc="Database";dur=' . $dbReadTotalTime);
 
-    // $local ='http://localhost/_andong/namkhoa.andongclinic.vn'
-    $local ='https://namkhoa.andongclinic.vn'
+    $local ='http://localhost/_andong/namkhoa.andongclinic.vn'
+    // $local ='https://namkhoa.andongclinic.vn'
     ?>
 
 
