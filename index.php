@@ -17,7 +17,7 @@
                         <img width="100%" height="auto" src="<?php echo $local ?>/images/icons/icon_chat.webp" alt="chat top">
                         <div class="vision__right-top-body">
                             <strong>TẦM NHÌN</strong>
-                            <div>  Đa khoa An Đông đã được thành lập và định hướng phát triển theo tiêu chuẩn y khoa quốc tế, tiện ích và nhân văn. Từ đó, trở thành điểm đến tin cậy của nhiều bệnh nhân tại thành phố cũng như các tỉnh lân cận.  </div>
+                            <div>  Đa khoa An Đông đã được thành lập và định hướng phát triển theo tiêu chuẩn y khoa , tiện ích và nhân văn. Từ đó, trở thành điểm đến tin cậy của nhiều bệnh nhân tại thành phố cũng như các tỉnh lân cận.  </div>
                         </div>
                     </div>
                     <div class="vision__right-bottom">

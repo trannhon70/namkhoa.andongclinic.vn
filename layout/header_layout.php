@@ -86,7 +86,7 @@
             </div>
         </div>
     </div>
-    <div class="header__bottom">
+    <!-- <div class="header__bottom">
         <ul>
             <li>
                 <img loading="lazy" width="40px" height="40px" src="<?php echo $local ?>/images/icons/icon_baoquydau.webp" alt="...">
@@ -109,7 +109,7 @@
                 <span>bệnh xã hội</span>
             </li>
         </ul>
-    </div>
+    </div> -->
 </header>
 
 <header id="header__mobile" class="header__mobile">
@@ -166,7 +166,7 @@
   style="opacity: 0; transition: opacity 3s;"
   onload="document.getElementById('bannerPlaceholder').style.display='none'; this.style.opacity=1;">
     </div>
-    <div class="header__mobile-list">
+    <!-- <div class="header__mobile-list">
         <ul>
             <li>
                 <img loading="lazy" width="40px" height="40px" src="<?php echo $local ?>/images/icons/icon_baoquydau.webp" alt="...">
@@ -189,7 +189,7 @@
                 <div>bệnh xã hội</div>
             </li>
         </ul>
-    </div>
+    </div> -->
 </header>
 
 <div id="toast-container"></div>

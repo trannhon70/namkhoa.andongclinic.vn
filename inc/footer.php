@@ -103,7 +103,7 @@
      </div>
  </div>
 
- <?php include_once './layout/modalKhuyenMai.php' ?>
+ <!-- <?php include_once './layout/modalKhuyenMai.php' ?> -->
  <script language="javascript" src="https://npa.zoosnet.net/JS/LsJS.aspx?siteid=NPA46777247&float=1&lng=en"></script>
  <script>
      // Đợi 10 giây (10000ms) sau khi trang được tải

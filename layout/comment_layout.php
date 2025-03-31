@@ -6,7 +6,7 @@ if (isset($slug)) {
 
 ?>
 <div class="comment">
-    <div class="quantam">
+    <!-- <div class="quantam">
         <div class="quantam__title">có thể bạn quan tâm</div>
         <img width="100%" height="auto" src="<?php echo $local ?>/images/icons/icon_line.webp" alt="line">
         <ul>
@@ -17,7 +17,7 @@ if (isset($slug)) {
             <?php endforeach ?>
 
         </ul>
-    </div>
+    </div> -->
     <div class="comment__body">
         <div class="comment__body-title">
             Bình luận :
