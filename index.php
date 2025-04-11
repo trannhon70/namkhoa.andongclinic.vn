@@ -1,6 +1,7 @@
 <?php include_once "inc/header.php" ?>
 <meta name="description"
-        content="Phòng khám đa khoa chuyên điều trị bệnh nam khoa, bệnh xã hội, da liễu, hậu môn - trực tràng uy tính tại thành phố Hồ Chí Minh">
+        content="Phòng khám chuyên điều trị bệnh uy tính tại thành phố Hồ Chí Minh">
+
     <title>Phòng khám đa khoa</title>
 <link rel="stylesheet" href="css/trang_chu.min.css">
 </head>
@@ -231,7 +232,7 @@
                                 <div class="customer_row-right-list-item ">
                                     <img width="100%" height="auto" src="<?php echo $local ?>/images/users/user_3.webp" alt="...">
                                     <div class="customer_row-right-list-item-body">
-                                        <p>“Mình bị xuất tinh sớm, bạn bè giới thiệu đến Đa khoa An Đông. Tại đây, các bác sĩ vô cùng có tâm với nghề, nên mình cũng thoải mái chia sẻ những vấn đề mình đang gặp phải. Sau điều trị, mình cảm thấy sức khỏe sinh lý của mình cải thiện hơn so với ngày xưa”</p>
+                                    <p>“Mình được bạn bè giới thiệu đến Đa khoa An Đông. Tại đây, các bác sĩ vô cùng có tâm với nghề, nên mình cũng thoải mái chia sẻ những vấn đề mình đang gặp phải. Sau điều trị, mình cảm thấy sức khỏe cải thiện hơn”</p>
                                         <div>Đức Trí (29 tuổi)</div>
                                     </div>
                                 </div>

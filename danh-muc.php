@@ -115,15 +115,15 @@ setTitleAndScroll();
                             </a>
                             <a href="<?php echo $local ?>" class="category__left-questions-item">
                                 <span>3</span>
-                                <div>Cách điều trị xuất tinh sớm hiệu quả?</div>
+                                <div> Cách điều trị bệnh da liễu hiệu quả</div>
                             </a>
                             <a href="<?php echo $local ?>" class="category__left-questions-item">
                                 <span>4</span>
-                                <div>Dương vật không cương là bệnh gì?</div>
+                                <div>Có nên cắt bao quy đầu không?</div>
                             </a>
                             <a href="<?php echo $local ?>" class="category__left-questions-item">
                                 <span>5</span>
-                                <div>Chi phí chữa sùi mào gà bao nhiêu?</div>
+                                <div>Chi phí đốt sùi bao nhiêu?</div>
                             </a>
                         </div>
                         <a href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&lng=en" class="category__left-promotion">
