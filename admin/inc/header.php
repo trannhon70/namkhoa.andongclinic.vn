@@ -9,8 +9,8 @@ if (isset($_GET['action']) && $_GET['action'] == 'logout') {
     Session::destroy();
 }
 
-$local = 'http://localhost/_andong/namkhoa.andongclinic.vn';
-// $local = 'https://namkhoa.andongclinic.vn';
+// $local = 'http://localhost/_andong/namkhoa.andongclinic.vn';
+$local = 'https://namkhoa.andongclinic.vn';
 ?>
 <?php
 function getImagesFromFolder($folderPath) {
@@ -52,7 +52,7 @@ header("Cache-Control: max-age=2592000");
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Phòng khám đa khoa An Đông clinic</title>
+    <title>Phòng khám Chuyên khoa An Đông clinic</title>
     <link rel="icon" href="<?php echo $local ?>/images/icons/icon_logo.webp" type="image/x-icon">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="../css/toastr.min.css" />
@@ -91,7 +91,7 @@ header("Cache-Control: max-age=2592000");
         <aside id="sidebar">
             <div class="d-flex mt-3" style="margin-left: 24px;">
                 <div class="sidebar-logo">
-                    <a href="<?php echo $local ?>/admin">PK Đa Khoa</a>
+                    <a href="<?php echo $local ?>/admin">PK Chuyên khoa</a>
                 </div>
             </div>
             <ul class="sidebar-nav">

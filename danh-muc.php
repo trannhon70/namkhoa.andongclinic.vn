@@ -448,6 +448,8 @@ setTitleAndScroll();
                 let content = `<?php echo htmlspecialchars_decode($getPostDetail['content']); ?>`;
                 const phoneRegex = /0968\s063\s109/g; // Regex tìm số điện thoại
                 content = content.replace(phoneRegex, '0968 063 109, 028 7777 9888'); 
+                const multiTagRegex = /Đa\sKhoa/g;
+                content = content.replace(multiTagRegex, 'Chuyên khoa');
                 bodyPlaceholder.innerHTML = content;
                 bodyPlaceholder.classList.add("loaded");
                 observer.unobserve(bodyPlaceholder);
