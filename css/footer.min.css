@@ -147,7 +147,7 @@
 }
 
 .footer__bottom-container-body-list-item > div > div >p {
-    font-size: var(--font-size-22);
+    font-size: var(--font-size-20);
     font-weight: var(--font-weight-400);
     color: var(--color-white);
 }

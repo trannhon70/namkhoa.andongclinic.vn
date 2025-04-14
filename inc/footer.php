@@ -35,7 +35,7 @@
                              <img loading="lazy" width="100px" height="100px" src="<?php echo $local ?>/images/icons/icon_logo.webp" alt="...">
                              <div>
                                  <strong>An Đông</strong>
-                                 <p>Phòng khám đa khoa</p>
+                                 <p>Phòng khám chuyên khoa</p>
                              </div>
                          </div>
                          <img width="100%" height="auto" src="<?php echo $local ?>/images/icons/icon_line.webp" alt="line">
@@ -259,7 +259,7 @@
              <div>
                  an đông
              </div>
-             <p>phòng khám đa khoa</p>
+             <p>phòng khám chuyên khoa</p>
          </div>
          <ul>
              <li><strong>Địa chỉ:</strong>360 An Dương Vương, P.4, Q.5, TP.HCM</li>
