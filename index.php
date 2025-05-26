@@ -52,10 +52,7 @@
                     </div>
                 </div>
                 <div class="team__body">
-                    <div class="team__body-item">
-                        <div class="team__body-item-tile">BS. cao hữu minh</div>
-                        <img width="100%" height="auto" src="<?php echo $local ?>/images/users/user_bacsiminh.webp" alt="...">
-                    </div>
+                  
                     <div class="team__body-item">
                         <div class="team__body-item-tile">BS. Võ minh nguyễn</div>
                         <img width="100%" height="auto" src="<?php echo $local ?>/images/users/user_bacsinguyen.webp" alt="...">

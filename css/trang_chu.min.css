@@ -120,6 +120,7 @@
 
   .team__body{
     display: var(--display-flex);
+    justify-content: center;
     gap: 10px;
     box-sizing: border-box;
   }

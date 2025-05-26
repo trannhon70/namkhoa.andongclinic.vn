@@ -83,10 +83,10 @@ setTitleAndScroll();
                         <div class="category__left-doctor">
                             <div class="category__left-doctor-list">
                                 <div class="category__left-doctor-list-item category__left-doctor-list-item-active">
-                                    <div class="category__left-doctor-list-item-title">
-                                        BS. cao hữu minh
+                                     <div class="category__left-doctor-list-item-title">
+                                        BS. Võ minh nguyễn
                                     </div>
-                                    <img loading="lazy" width="100%" height="auto" src="<?php echo $local ?>/images/users/user_bacsiminh1.webp" alt="...">
+                                    <img loading="lazy" width="100%" height="auto" src="<?php echo $local ?>/images/users/user_bacsinguyen1.webp" alt="...">
                                 </div>
                                 <div class="category__left-doctor-list-item ">
                                     <div class="category__left-doctor-list-item-title">
