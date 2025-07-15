@@ -18,7 +18,7 @@
                         <img width="100%" height="auto" src="<?php echo $local ?>/images/icons/icon_chat.webp" alt="chat top">
                         <div class="vision__right-top-body">
                             <strong>TẦM NHÌN</strong>
-                            <div>  Chuyên khoa An Đông đã được thành lập và định hướng phát triển theo tiêu chuẩn y khoa , tiện ích và nhân văn. Từ đó, trở thành điểm đến tin cậy của nhiều bệnh nhân tại thành phố cũng như các tỉnh lân cận.  </div>
+                            <div>  Phòng khám khoa ngoại thuộc công ty tnhh Phòng Khám Đa Khoa An Đông đã được thành lập và định hướng phát triển theo tiêu chuẩn y khoa , tiện ích và nhân văn. Từ đó, trở thành điểm đến tin cậy của nhiều bệnh nhân tại thành phố cũng như các tỉnh lân cận.  </div>
                         </div>
                     </div>
                     <div class="vision__right-bottom">
@@ -37,7 +37,7 @@
                 <div class="vision__mobile-body" >
                     <div class="vision__mobile-body-title">Tầm Nhìn & Sứ mệnh</div>
                     <img width="100%" height="auto" src="<?php echo $local ?>/images/icons/icon_line.webp" alt="line">
-                    <p>Chuyên khoa An Đông – 360, An Dương Vương, P.4, Q.5, TPHCM đã được thành lập và định hướng phát triển theo tiêu chuẩn y khoa quốc tế, tiện ích và nhân văn. Từ đó, trở thành điểm đến tin cậy của nhiều bệnh nhân tại thành phố cũng như các tỉnh lân cận.
+                    <p>Phòng khám khoa ngoại thuộc công ty tnhh Phòng Khám Đa Khoa An Đông đã được thành lập và định hướng phát triển theo tiêu chuẩn y khoa , tiện ích và nhân văn. Từ đó, trở thành điểm đến tin cậy của nhiều bệnh nhân tại thành phố cũng như các tỉnh lân cận.
                     Sứ mệnh vì một cộng đồng mạnh khỏe, vui sống và an nhiên. Chuyên khoa An Đông luôn nỗ lực để xây dựng một thương hiệu chăm sóc sức khỏe với hàm lượng tri thức, khoa học và công nghệ hiện đại. Mỗi dịch vụ y tế đều hướng tới tính tiện ích, hiệu quả và có ý nghĩa trong cuộc sống con người.</p>
                 </div>
                 <img  width="100%" height="auto" src="<?php echo $local ?>/images/banner/banner-small.webp" alt="...">
