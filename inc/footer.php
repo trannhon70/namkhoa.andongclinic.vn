@@ -76,7 +76,7 @@
              <a aria-label="Tư vấn" style="width: 30%; height: 100px; display: block; "
                  href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&lng=en">
              </a>
-             <a aria-label="phone" style="width: 40%; height: 100px; display: block; " href="tel:02877779888"></a>
+             <a aria-label="phone" style="width: 40%; height: 100px; display: block; " href="tel:0968063109"></a>
              <a aria-label="Đăt hẹn" style="width: 30%; height: 100px; display: block; "
                  href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&lng=en"></a>
 
@@ -86,7 +86,7 @@
  </section>
 
  <div class="icon__list">
-     <a href="tel:+02877779888" class="icon__list-item">
+     <a href="tel:+0968063109" class="icon__list-item">
          <img loading="lazy" width="41px" height="41px" src="<?php echo $local ?>/images/icons_chat/icon_phone.webp"
              alt="...">
      </a>
