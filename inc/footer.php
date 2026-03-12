@@ -14,7 +14,7 @@
                          <li><a href="<?php echo $local ?>">Xét Nghiệm</a></li>
                          <li><a href="<?php echo $local ?>">Chuẩn Đoán Hình Ảnh</a></li>
                      </ul>
-                     <a href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&lng=en"
+                     <a href="javascript:void(0)" onclick="openZoosUrl('chatwin'); return false;"
                          class="footer__top-row-right-body-img">
                          <img width="284px" height="52px" src="<?php echo $local ?>/images/background/bg_tuvan.webp"
                              alt="...">
@@ -74,11 +74,11 @@
          </amp-anim>
          <div class="footer_mobile_a">
              <a aria-label="Tư vấn" style="width: 30%; height: 100px; display: block; "
-                 href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&lng=en">
+                 href="javascript:void(0)" onclick="openZoosUrl('chatwin'); return false;">
              </a>
              <a aria-label="phone" style="width: 40%; height: 100px; display: block; " href="tel:0968063109"></a>
              <a aria-label="Đăt hẹn" style="width: 30%; height: 100px; display: block; "
-                 href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&lng=en"></a>
+                 href="javascript:void(0)" onclick="openZoosUrl('chatwin'); return false;"></a>
 
 
          </div>
@@ -90,7 +90,7 @@
          <img loading="lazy" width="41px" height="41px" src="<?php echo $local ?>/images/icons_chat/icon_phone.webp"
              alt="...">
      </a>
-     <a href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&lng=en" class="icon__list-item1">
+     <a href="javascript:void(0)" onclick="openZoosUrl('chatwin'); return false;" class="icon__list-item1">
          <img loading="lazy" width="41px" height="41px" src="<?php echo $local ?>/images/icons_chat/icon_mess.webp"
              alt="...">
          <p class="randum__number">
@@ -106,7 +106,7 @@
  <div id="modal__footer" class="modal__footer" style="display:none;">
      <div class="modal__footer-content">
          <span class="close" onclick="closeModal_footer()">&times;</span>
-         <a href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&lng=en"
+         <a href="javascript:void(0)" onclick="openZoosUrl('chatwin'); return false;"
              style="margin-top: 30px; display:block;">
              <img width="100%" loading="lazy" height="auto" src="<?php echo $local ?>/images/icons_chat/goi-kham.gif"
                  alt="">
@@ -252,7 +252,7 @@
                  <li><a href="<?php echo $local ?>">Xét Nghiệm</a></li>
                  <li><a href="<?php echo $local ?>">Chuẩn Đoán Hình Ảnh</a></li>
              </ul>
-             <a href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&lng=en" class="footer__mobile-center-body-img">
+             <a href="javascript:void(0)" onclick="openZoosUrl('chatwin'); return false;" class="footer__mobile-center-body-img">
                  <img loading="lazy" width="50%" height="auto" src="<?php echo $local ?>/images/background/bg_tuvan.webp" alt="...">
              </a>
              <div style="margin-top: 15px;">

@@ -129,7 +129,7 @@
             <div style="position: absolute; top: 0; left: 0; height: 50px; width: 100%; display: flex; ">
                 <div style="width: 50%; height: 50px;">
                 </div>
-                <a href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&lng=en"
+                <a href="javascript:void(0)" onclick="openZoosUrl('chatwin'); return false;"
                     style="width: 50%; height: 50px; display: block; "></a>
             </div>
         </div>

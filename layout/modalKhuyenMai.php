@@ -1,13 +1,13 @@
 <style>
     .modal {
         display: none;
-            position: fixed;
-            z-index: 1000;
-            left: 0;
-            top: 10%;
-            width: 100%;
-            height: 100%;
-            overflow: auto;
+        position: fixed;
+        z-index: 1000;
+        left: 0;
+        top: 10%;
+        width: 100%;
+        height: 100%;
+        overflow: auto;
     }
 
     .modal-content {
@@ -19,23 +19,24 @@
     }
 
     @keyframes slidein {
-            from {
-                transform: translateX(150vw) scaleX(2);
-            }
-            to {
-                transform: translateX(0) scaleX(1);
-            }
+        from {
+            transform: translateX(150vw) scaleX(2);
         }
 
-        @keyframes slideout {
-            from {
-                transform: translateX(0) scaleX(1);
-            }
-
-            to {
-                transform: translateX(150vw) scaleX(2);
-            }
+        to {
+            transform: translateX(0) scaleX(1);
         }
+    }
+
+    @keyframes slideout {
+        from {
+            transform: translateX(0) scaleX(1);
+        }
+
+        to {
+            transform: translateX(150vw) scaleX(2);
+        }
+    }
 
 
     .closeKM {
@@ -65,13 +66,13 @@
             height: auto;
             animation-duration: 1s;
             animation-name: slidein;
-         }
-            
-         .closeKM {
+        }
+
+        .closeKM {
             font-size: 20px;
             padding: 0px 5px;
         }
-        }
+    }
 </style>
 
 
@@ -80,7 +81,7 @@
 
         <div style="position: relative;">
             <span class="closeKM" id="closeModalKM">&times;</span>
-            <a href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&lng=en">
+            <a href="javascript:void(0)" onclick="openZoosUrl('chatwin'); return false;">
                 <img style="border: 1px solid success; border-radius: 8px; " width="100%" height="auto" src="<?php echo $local ?>/images/users/bac_si_tu_xa.webp" alt="...">
             </a>
 
@@ -113,7 +114,7 @@
     if (span) {
         span.onclick = closeModal;
     }
-    
+
     if (sloseModal) {
         sloseModal.onclick = closeModal;
     }
